@@ -1,0 +1,15 @@
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\bin\Release\WpfApp2.exe.config
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\bin\Release\WpfApp2.exe
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\bin\Release\WpfApp2.pdb
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\WpfApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\MainWindow.baml
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\MainWindow.g.cs
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\App.g.cs
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\WpfApp2_MarkupCompile.cache
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\WpfApp2.g.resources
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\WpfApp2.Properties.Resources.resources
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\WpfApp2.csproj.GenerateResource.cache
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\WpfApp2.exe
+C:\Users\fomin\Desktop\Курсач\КУРСОВОЙ ПРОЕКТ\WpfApp2\obj\Release\WpfApp2.pdb
