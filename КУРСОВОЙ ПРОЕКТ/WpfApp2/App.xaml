@@ -4,6 +4,12 @@
              xmlns:local="clr-namespace:WpfApp2"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        
+        <!-- Один словарь с ресурсами для тем -->
+        <ResourceDictionary>
+            <!-- Базовый цвет фона -->
+            <SolidColorBrush x:Key="BackgroundColor" Color="White"/>
+            <!-- Другие ресурсы -->
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

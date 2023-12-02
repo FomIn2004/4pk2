@@ -62,6 +62,31 @@ namespace WpfApp2
             else
                 NoteContent.Selection.ApplyPropertyValue(TextElement.FontSizeProperty, fontSize);
         }
+        private void ChangeThemeButton_Click(object sender, RoutedEventArgs e)
+        {
+            
+            ResourceDictionary appResources = Application.Current.Resources;
+
+            if (appResources["BackgroundColor"] is SolidColorBrush brush)
+            {
+                if (brush.Color == Colors.White )
+                {
+                    appResources["BackgroundColor"] = new SolidColorBrush(Color.FromRgb(26, 26, 26));
+                    fomtxt.Foreground = brush; razdel.Foreground = brush; shrift.Foreground = brush; oform.Foreground = brush; razmer.Foreground = brush; shrift1.Foreground = brush;
+                    NoteContent.Background = new SolidColorBrush(Color.FromRgb(37, 31, 51)); NoteContent.Foreground = new SolidColorBrush(Color.FromRgb(255, 255, 255));
+                    SectionNameTextBox.Background = new SolidColorBrush(Color.FromRgb(37, 31, 51)); SectionNameTextBox.Foreground = new SolidColorBrush(Color.FromRgb(255, 255, 255));
+                   
+                }
+                else
+                {
+                    appResources["BackgroundColor"] = new SolidColorBrush(Colors.White);
+                    fomtxt.Foreground = new SolidColorBrush(Color.FromRgb(0, 0, 0)); razdel.Foreground = new SolidColorBrush(Color.FromRgb(0, 0, 0)); shrift.Foreground = new SolidColorBrush(Color.FromRgb(0, 0, 0)); shrift1.Foreground = new SolidColorBrush(Color.FromRgb(0, 0, 0)); oform.Foreground = new SolidColorBrush(Color.FromRgb(0, 0, 0)); razmer.Foreground = new SolidColorBrush(Color.FromRgb(0, 0, 0));
+                    NoteContent.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255)); NoteContent.Foreground = new SolidColorBrush(Color.FromRgb(0, 0, 0));
+                    SectionNameTextBox.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255)); SectionNameTextBox.Foreground = new SolidColorBrush(Color.FromRgb(0, 0, 0));
+
+                }
+            }
+        }
 
         private void FontComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
